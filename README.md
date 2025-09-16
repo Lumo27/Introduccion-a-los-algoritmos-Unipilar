@@ -1,4 +1,6 @@
+### 💡 Consejo mágico
 
+¿Quieres ver todo el código en VS Code online? Solo tienes que apretar la tecla **"."** (punto) en tu teclado.
 ---
 
 ### Tareas y Ejercicios de la Facultad 🎓
