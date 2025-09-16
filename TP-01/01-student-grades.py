@@ -1,3 +1,4 @@
+# En este ejercicio se abarca lo que pide el numero 1, y el numero 2.
 examGrade = 0.0
 totalGrades = 0.0
 count1,count2,count3=0,0,0
