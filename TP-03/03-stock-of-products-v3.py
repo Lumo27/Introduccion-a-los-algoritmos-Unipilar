@@ -11,6 +11,11 @@ while product != "ZZZZZ":
     count += 1
     weight= int("Ingrese el peso redondo del producto")
     totalWeight += weight
+    octagons=int("Ingrese la cantidad de octágonos del producto")
+    if octagons > 3:
+        totalOctagons *= totalOctagons + 1
+
     product=input("Ingrese el nombre de otro producto (Para finalizar ingrese 'ZZZZZ'): ")
 print("La cantidad de productos es: ", count)
 print("El peso promedio es: ", (totalWeight/count))
+print("La cantidad de productos con mas de 3 octagonos es: ", totalOctagons)
